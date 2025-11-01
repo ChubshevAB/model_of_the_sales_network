@@ -41,5 +41,5 @@ Django REST API приложение для управления иерархи�
 
 ### Клонирование репозитория
 ```
-git clone 
+git clone https://github.com/ChubshevAB/model_of_the_sales_network.git
 ```
